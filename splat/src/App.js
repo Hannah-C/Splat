@@ -44,9 +44,9 @@ function App() {
         </header>
         <footer className="Footer">
           <img src={signature} className="ImageSize" alt="signature" />
-          <a href="https://www.Google.ca" >
+          {/* <a href="https://www.Google.ca" >
             <GrDocumentText className="ImageSize" />
-          </a>
+          </a> */}
           <SocialIcon url="https://github.com/Hannah-C" bgColor="black" />
           <SocialIcon url="https://www.linkedin.com/in/hannah-choi-comsciart/" bgColor="black" />
           <SocialIcon url="https://www.instagram.com/wiawias/" bgColor="black" />
